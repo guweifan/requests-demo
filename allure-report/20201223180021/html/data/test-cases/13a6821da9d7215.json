@@ -1,0 +1,79 @@
+{
+  "uid" : "13a6821da9d7215",
+  "name" : "test_data_bishu_csv_null[{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"BO20191108000039\",\"prodCode\": \"\"}}}-9999]",
+  "fullName" : "pytest_case.test_case1.Test_tongdun_api#test_data_bishu_csv_null",
+  "historyId" : "6610f30333efd672a1c1b0cf59207687",
+  "time" : {
+    "start" : 1608717623301,
+    "stop" : 1608717623316,
+    "duration" : 15
+  },
+  "description" : "pytest参数化",
+  "descriptionHtml" : "<p>pytest参数化</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_base_url",
+    "time" : {
+      "start" : 1608717622698,
+      "stop" : 1608717622698,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pytest_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_case1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_tongdun_api"
+  }, {
+    "name" : "host",
+    "value" : "BOCCF-20180504Q"
+  }, {
+    "name" : "thread",
+    "value" : "20808-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_case.test_case1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "'9999'"
+  }, {
+    "name" : "data",
+    "value" : "'{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"BO20191108000039\",\"prodCode\": \"\"}}}'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13a6821da9d7215.json",
+  "parameterValues" : [ "'9999'", "'{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"BO20191108000039\",\"prodCode\": \"\"}}}'" ]
+}

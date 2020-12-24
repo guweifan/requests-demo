@@ -1,0 +1,61 @@
+[ {
+  "uid" : "71d404374d571f6d",
+  "name" : "test_demo1",
+  "time" : {
+    "start" : 1608111307524,
+    "stop" : 1608111307525,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84e39494c02753ab",
+  "name" : "test_data_bishu_null[{\"ServiceRequest\": {\"serviceType\": \"\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"BO20191108000039\",\"prodCode\": \"01G213\"}}}-9999]",
+  "time" : {
+    "start" : 1608111307387,
+    "stop" : 1608111307405,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3936b3b8e7a889e3",
+  "name" : "test_data_bishu_null[{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"BO20191108000039\",\"prodCode\": \"\"}}}-9999]",
+  "time" : {
+    "start" : 1608111307321,
+    "stop" : 1608111307334,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccaf04fb733931f5",
+  "name" : "test_data_bishu_normal",
+  "time" : {
+    "start" : 1608111307194,
+    "stop" : 1608111307248,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68d5a34fb9314729",
+  "name" : "test_m2_01",
+  "time" : {
+    "start" : 1608111307441,
+    "stop" : 1608111307480,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc1f56cf06c0e62d",
+  "name" : "test_data_bishu_null[{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"\",\"prodCode\": \"01G213\"}}}-9999]",
+  "time" : {
+    "start" : 1608111307267,
+    "stop" : 1608111307281,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

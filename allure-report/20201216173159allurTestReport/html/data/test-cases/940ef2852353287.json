@@ -1,0 +1,96 @@
+{
+  "uid" : "940ef2852353287",
+  "name" : "test_data_bishu_null[{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"\",\"prodCode\": \"01G213\"}}}-9999]",
+  "fullName" : "pytest_case.test_case1.Test_tongdun_api#test_data_bishu_null",
+  "historyId" : "fbbed786c71f1f281a451aa6349b7458",
+  "time" : {
+    "start" : 1608111120117,
+    "stop" : 1608111120133,
+    "duration" : 16
+  },
+  "description" : "pytest参数化",
+  "descriptionHtml" : "<p>pytest参数化</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_base_url",
+    "time" : {
+      "start" : 1608111120026,
+      "stop" : 1608111120026,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "pytest参数化",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "888f2996cdf95025",
+      "name" : "stdout",
+      "source" : "888f2996cdf95025.txt",
+      "type" : "text/plain",
+      "size" : 217
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pytest_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_case1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_tongdun_api"
+  }, {
+    "name" : "host",
+    "value" : "BOCCF-20180504Q"
+  }, {
+    "name" : "thread",
+    "value" : "21696-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_case.test_case1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "'9999'"
+  }, {
+    "name" : "data",
+    "value" : "'{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"\",\"prodCode\": \"01G213\"}}}'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "940ef2852353287.json",
+  "parameterValues" : [ "'9999'", "'{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"\",\"prodCode\": \"01G213\"}}}'" ]
+}

@@ -1,0 +1,11 @@
+. test_case/test_case1.py::tongdun_api_test::test_paras_bishu_normal
+. test_case/test_case1.py::tongdun_api_test::test_paras_bishu_null_1
+. test_case/test_case1.py::tongdun_api_test::test_paras_bishu_null_2
+. test_case/test_case1.py::tongdun_api_test::test_paras_bishu_null_3
+. test_case/test_pytestdemo.py::test_m2_01
+F test_case/test_pytestdemo.py::test_demo1
+ def test_demo1():
+ >       assert 2 != 2
+ E       assert 2 != 2
+ 
+ test_case\test_pytestdemo.py:8: AssertionError

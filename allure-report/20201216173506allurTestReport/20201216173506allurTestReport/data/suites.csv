@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Dec 16 17:35:07 CST 2020","Wed Dec 16 17:35:07 CST 2020","1","pytest_case","test_pytestdemo","","","","test_demo1",""
+"passed","Wed Dec 16 17:35:07 CST 2020","Wed Dec 16 17:35:07 CST 2020","18","pytest_case","test_case1","Test_tongdun_api","","","test_data_bishu_null[{""ServiceRequest"": {""serviceType"": """",""reqTime"": ""2019-11-04 09:30:21"",""data"": {""appNum"": ""BO20191108000039"",""prodCode"": ""01G213""}}}-9999]","pytest参数化"
+"passed","Wed Dec 16 17:35:07 CST 2020","Wed Dec 16 17:35:07 CST 2020","13","pytest_case","test_case1","Test_tongdun_api","","","test_data_bishu_null[{""ServiceRequest"": {""serviceType"": ""firstLoanScore"",""reqTime"": ""2019-11-04 09:30:21"",""data"": {""appNum"": ""BO20191108000039"",""prodCode"": """"}}}-9999]","pytest参数化"
+"passed","Wed Dec 16 17:35:07 CST 2020","Wed Dec 16 17:35:07 CST 2020","54","pytest_case","test_case1","Test_tongdun_api","","","test_data_bishu_normal"," 正常返回"
+"passed","Wed Dec 16 17:35:07 CST 2020","Wed Dec 16 17:35:07 CST 2020","39","pytest_case","test_pytestdemo","","","","test_m2_01",""
+"passed","Wed Dec 16 17:35:07 CST 2020","Wed Dec 16 17:35:07 CST 2020","14","pytest_case","test_case1","Test_tongdun_api","","","test_data_bishu_null[{""ServiceRequest"": {""serviceType"": ""firstLoanScore"",""reqTime"": ""2019-11-04 09:30:21"",""data"": {""appNum"": """",""prodCode"": ""01G213""}}}-9999]","pytest参数化"

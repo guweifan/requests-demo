@@ -1,0 +1,61 @@
+[ {
+  "uid" : "1ade3bb3c2a0768",
+  "name" : "test_data_bishu_null[{\"ServiceRequest\": {\"serviceType\": \"\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"BO20191108000039\",\"prodCode\": \"01G213\"}}}-9999]",
+  "time" : {
+    "start" : 1608111120228,
+    "stop" : 1608111120241,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4c3de00922cb1a5",
+  "name" : "test_demo1",
+  "time" : {
+    "start" : 1608111120340,
+    "stop" : 1608111120341,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a36f247fdb321b6b",
+  "name" : "test_data_bishu_normal",
+  "time" : {
+    "start" : 1608111120027,
+    "stop" : 1608111120067,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "940ef2852353287",
+  "name" : "test_data_bishu_null[{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"\",\"prodCode\": \"01G213\"}}}-9999]",
+  "time" : {
+    "start" : 1608111120117,
+    "stop" : 1608111120133,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f2b854042a2caac",
+  "name" : "test_m2_01",
+  "time" : {
+    "start" : 1608111120299,
+    "stop" : 1608111120303,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df4f74b091a96f4",
+  "name" : "test_data_bishu_null[{\"ServiceRequest\": {\"serviceType\": \"firstLoanScore\",\"reqTime\": \"2019-11-04 09:30:21\",\"data\": {\"appNum\": \"BO20191108000039\",\"prodCode\": \"\"}}}-9999]",
+  "time" : {
+    "start" : 1608111120176,
+    "stop" : 1608111120190,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

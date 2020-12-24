@@ -1,0 +1,53 @@
+{
+  "uid" : "e8827a47b45470c3",
+  "name" : "test_demo1",
+  "fullName" : "pytest_case.test_pytestdemo#test_demo1",
+  "historyId" : "c869d600e444757d0ab86e59f5b1452c",
+  "time" : {
+    "start" : 1608186972509,
+    "stop" : 1608186972510,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pytest_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytestdemo"
+  }, {
+    "name" : "host",
+    "value" : "BOCCF-20180504Q"
+  }, {
+    "name" : "thread",
+    "value" : "26012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_case.test_pytestdemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8827a47b45470c3.json",
+  "parameterValues" : [ ]
+}

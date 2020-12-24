@@ -1,0 +1,90 @@
+{
+  "uid" : "ccaf04fb733931f5",
+  "name" : "test_data_bishu_normal",
+  "fullName" : "pytest_case.test_case1.Test_tongdun_api#test_data_bishu_normal",
+  "historyId" : "bdbdd9ff68a04152b410d7722188eacd",
+  "time" : {
+    "start" : 1608111307194,
+    "stop" : 1608111307248,
+    "duration" : 54
+  },
+  "description" : " 正常返回",
+  "descriptionHtml" : "<p>正常返回</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_base_url",
+    "time" : {
+      "start" : 1608111307191,
+      "stop" : 1608111307191,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : " 正常返回",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cc7cc809c9f472fa",
+      "name" : "stdout",
+      "source" : "cc7cc809c9f472fa.txt",
+      "type" : "text/plain",
+      "size" : 56
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pytest_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_case1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_tongdun_api"
+  }, {
+    "name" : "host",
+    "value" : "BOCCF-20180504Q"
+  }, {
+    "name" : "thread",
+    "value" : "8120-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_case.test_case1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ccaf04fb733931f5.json",
+  "parameterValues" : [ ]
+}
